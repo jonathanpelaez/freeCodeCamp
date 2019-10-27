@@ -31,7 +31,7 @@
     "@commitlint/travis-cli": "^7.0.0",
     "@freecodecamp/challenge-md-parser": "^1.0.0",
     "@semantic-release/changelog": "^2.0.2",
-    "@semantic-release/git": "^5.0.0",
+    "@semantic-release/git": "^7.0.17",
     "babel-cli": "^6.3.17",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-lodash": "^3.3.4",
