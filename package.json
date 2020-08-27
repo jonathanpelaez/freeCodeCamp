@@ -27,7 +27,7 @@
     "debug": "^4.0.1",
     "dotenv": "^6.0.0",
     "eslint-config-freecodecamp": "^1.1.1",
-    "faker": "^4.1.0",
+    "faker": "^5.1.0",
     "gray-matter": "^4.0.1",
     "jest": "^23.6.0",
     "lerna": "^3.4.0",
