@@ -73,7 +73,7 @@
     "rework": "1.0.1",
     "rework-visit":"1.0.0",
     "rx": "^4.1.0",
-    "semantic-release": "^15.6.0",
+    "semantic-release": "^17.2.3",
     "validator": "^10.4.0"
   },
   "keywords": [
