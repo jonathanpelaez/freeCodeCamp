@@ -23,7 +23,7 @@
     "test:tools": "jest ./tools"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0",
+    "cross-env": "^7.0.3",
     "debug": "^4.0.1",
     "dotenv": "^6.0.0",
     "eslint-config-freecodecamp": "^1.1.1",
