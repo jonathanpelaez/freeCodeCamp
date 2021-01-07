@@ -95,7 +95,7 @@
     "eslint": "^4.10.0",
     "eslint-config-freecodecamp": "^1.1.1",
     "eslint-plugin-import": "^2.9.0",
-    "husky": "^0.14.3",
+    "husky": "^4.3.7",
     "joi": "^13.1.2",
     "joi-objectid": "^2.0.0",
     "loopback-component-explorer": "^6.3.1",
