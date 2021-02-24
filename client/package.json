@@ -47,7 +47,7 @@
     "react-media": "^1.8.0",
     "react-monaco-editor": "^0.18.0",
     "react-redux": "^5.0.7",
-    "react-reflex": "^2.2.9",
+    "react-reflex": "^4.0.0",
     "react-spinkit": "^3.0.0",
     "react-stripe-elements": "^2.0.1",
     "redux": "^4.0.0",
