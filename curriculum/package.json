@@ -43,7 +43,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "babel-standalone": "^6.26.0",
     "browserify": "^16.2.2",
-    "chai": "4.2.0",
+    "chai": "4.3.4",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "eslint": "^4.19.1",
