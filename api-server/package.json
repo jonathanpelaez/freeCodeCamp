@@ -41,7 +41,7 @@
     "date-fns": "^1.29.0",
     "debug": "^2.2.0",
     "dedent": "~0.7.0",
-    "dotenv": "^6.0.0",
+    "dotenv": "^9.0.0",
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
