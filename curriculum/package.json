@@ -63,7 +63,7 @@
     "mocha": "5.2.0",
     "node-sass": "4.9.4",
     "prettier": "^1.13.5",
-    "prettier-package-json": "^1.6.0",
+    "prettier-package-json": "^2.5.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
