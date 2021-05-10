@@ -27,6 +27,6 @@
     "remark-rehype": "^3.0.1",
     "to-vfile": "^5.0.1",
     "unified": "^7.0.0",
-    "unist-util-visit": "^1.4.0"
+    "unist-util-visit": "^3.1.0"
   }
 }
