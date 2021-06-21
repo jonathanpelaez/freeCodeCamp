@@ -37,7 +37,7 @@
     "monaco-editor-webpack-plugin": "^1.5.4",
     "nanoid": "^1.2.2",
     "prismjs": "^1.15.0",
-    "query-string": "^6.1.0",
+    "query-string": "^7.0.1",
     "react": "^16.4.2",
     "react-calendar-heatmap": "^1.7.0",
     "react-dom": "^16.4.2",
