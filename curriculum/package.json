@@ -62,7 +62,7 @@
     "lodash": "^4.17.10",
     "mocha": "5.2.0",
     "node-sass": "4.9.4",
-    "prettier": "^1.13.5",
+    "prettier": "^2.3.2",
     "prettier-package-json": "^1.6.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
